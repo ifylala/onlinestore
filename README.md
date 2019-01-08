@@ -1,2 +1,2 @@
 # onlinestore
-Website for online shopping
+Website for online shopping using HTML & CSS
